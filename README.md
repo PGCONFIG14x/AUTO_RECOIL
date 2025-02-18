@@ -11,11 +11,11 @@ pkg install git
 ```
 ## Clone this repository
 ```
-git clone https://github.com/PGCONFIG14x/PGCONFIG14X
+git clone https://github.com/PGCONFIG14x/AUTO_RECOIL.git
 ```
 ```
-cd PGCONFIG14X
+cd AUTO_RECOIL
 ```
 ```
-bash PGCONFIG_TOOL
+bash setup
 ```
